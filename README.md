@@ -23,7 +23,7 @@ Nesse projeto foram utilizados as seguintes tecnologias de frontend:
 
 <img src="assets/quizjs.png">
 
-<p>O deploy do projeto pode ser conferido no link: <a href="https://cristianevilelaazevedo.github.io/nlw-experts-quizjs/">QuizJS</a></p>
+<p>O deploy do projeto pode ser conferido no link: <a href="https://nlw-experts-quizjs.vercel.app/">QuizJS</a></p>
 
 ## Contato
 
